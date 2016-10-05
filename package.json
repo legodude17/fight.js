@@ -1,13 +1,13 @@
 {
-  "name": "Phaser_Test_Game",
+  "name": "fight.js",
   "version": "0.1.1",
-  "description": "A small game",
+  "description": "A fighting game written in javascript with PHASER.",
   "main": "server.js",
   "scripts": {
-    "start": "nodejs server.js"
+    "start": "node server.js"
   },
   "author": "JDB",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.13.4"
   }
