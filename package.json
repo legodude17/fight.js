@@ -1,0 +1,14 @@
+{
+  "name": "Phaser_Test_Game",
+  "version": "0.1.1",
+  "description": "A small game",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodejs server.js"
+  },
+  "author": "JDB",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
