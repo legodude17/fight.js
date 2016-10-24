@@ -1,6 +1,4 @@
-/*jslint browser:true*/
- /*global console, getFrame, Phaser, Hitbox*/
- /*
+/*
              this.solid='solid'; // Walls
              this.solid='meh'; //Player objects, items, pushable objects that you can still move through
              this.solid=false; //Clouds, entirely non-soild objects, attacking hitboxes
