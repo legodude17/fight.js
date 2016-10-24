@@ -1,4 +1,3 @@
-/*global require, console, Buffer*/
 var express = require('express');
 var fs = require('fs');
 var app = express();
