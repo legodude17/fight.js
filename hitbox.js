@@ -1,4 +1,3 @@
-/*global Phaser, console*/
 Function.prototype.method = function (name, fn) {
     'use strict';
     this.prototype[name] = fn;
